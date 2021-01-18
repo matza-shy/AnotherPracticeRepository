@@ -1,6 +1,6 @@
 function (x)
 {
-	double res = x * 3;
+	double res = x * 2;
 	return res;
 }
 
