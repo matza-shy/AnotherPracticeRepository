@@ -6,6 +6,6 @@ function (x)
 
 function main()
 {
-	double num = 5;
+	double num = 7;
 	print double(num);
 }
