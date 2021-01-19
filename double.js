@@ -6,6 +6,6 @@ function (x)
 
 function main()
 {
-	double num = 7; /* Volatile */
+	double num = 5; /* Volatile */
 	print double(num);
 }
