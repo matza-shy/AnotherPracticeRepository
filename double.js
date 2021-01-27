@@ -11,11 +11,18 @@ function add(x, y)
 }
 
 
+function sub(x, y)
+{
+	double res = x - y;
+	return res;
+}
+
 function main()
 {
-	double num = 8; /* Very Volatile */
+	num = 8; /* Very Volatile */
 	print(double(num));/* Why double? */
 	print(add(num, num));/* Addition ? */
+	print(sub(num, num));/* substraction ? */
 
 	return;
 }
