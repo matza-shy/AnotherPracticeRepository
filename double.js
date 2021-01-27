@@ -7,7 +7,7 @@ function (x)
 function main()
 {
 	double num = 8; /* Very Volatile */
-	print(double(num));/* Why double?*/
+	print(double(num));/* Why double? */
 
 	return;
 }
