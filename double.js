@@ -1,3 +1,5 @@
+/* Copy Right: Shy Matza */
+
 function double(x)
 {
 	double res = x * 2;
