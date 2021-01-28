@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/* My Class1 */
+/* My Class1 Is great !!!*/
 class MyClass {
     int m_size;
     List<Integer> lst = null;
