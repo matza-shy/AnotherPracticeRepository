@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/* My Class1 */
 class MyClass {
-
     int m_size;
     List<Integer> lst = null;
 
